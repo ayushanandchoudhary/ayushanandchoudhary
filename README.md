@@ -1,82 +1,51 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2d6cdf&height=180&section=header&text=Ayushanand%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Systems&descSize=16&descAlignY=58&descColor=a8c4f0)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D6CDF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Real-time+%26+AI-powered+platforms;NestJS+%7C+Node.js+%7C+TypeScript;Open+to+Backend+%26+SWE+roles)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=2d6cdf&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20In-Gurugram%2C%20India-orange?style=flat-square" />
+<!-- HEADER WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ayushanand%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Distributed%20Architecture&descSize=16&descAlignY=58&descColor=7ee8a2&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
-</div>
+<!-- TYPING SVG — ROLE CYCLER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=7EE8A2&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+systems+that+scale+to+production.;Multi-tenant+platforms.+Real-time+pipelines.+LLMs.;Currently+building+MIRA+%E2%80%94+AI+Support+Intelligence.;Open+to+Backend%2C+SWE%2C+and+Full-Stack+roles.;Based+in+Gurugram%2C+India.+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</p>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## `> whoami`
 
-```ts
+```typescript
 const ayushanand = {
-  role:              "Backend Developer",
-  focus:             ["RESTful APIs", "Microservices", "Real-Time Systems", "AI Pipelines"],
-  currentlyBuilding: "MIRA — AI-Powered Support Intelligence Platform",
+  name:              "Ayushanand Choudhary",
+  title:             "Backend Engineer · AI Systems · API Architect",
+  location:          "Gurugram, India 🇮🇳",
+  currentlyBuilding: "MIRA — Multi-tenant AI Support Intelligence Platform",
   background:        "2+ years shipping production-grade enterprise systems",
-  superpower:        "QA mindset in backend code — reliability built in from day one",
-  learning:          ["System Design", "Advanced Kafka Patterns", "LLM Orchestration"],
+  philosophy:        "QA mindset in backend code — reliability is a feature, not a phase",
+  learning:          ["Advanced Kafka Patterns", "LLM Orchestration", "System Design at Scale"],
   openTo:            "Backend, SWE, and Full-Stack roles — open to relocate",
+  superpower:        "I make distributed systems feel boring (in the best way)",
 };
 ```
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Backend & Frameworks**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4785?style=for-the-badge&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## `> ls ./featured-work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 MIRA — AI Support Platform
-> Multi-tenant enterprise support ops platform powered by AI
+### 🤖 MIRA — AI Support Intelligence
+> Multi-tenant enterprise support ops platform, powered by AI
 
-- RAG pipeline with **Qdrant** vector search for smart ticket routing
+- **RAG pipeline** with Qdrant vector search for smart ticket routing
 - **LLM orchestration** (Groq/Gemini) — classification, sentiment, RCA
-- Event-driven with **Kafka**, WebSockets & Redis caching
+- Event-driven architecture with **Kafka** + WebSockets + Redis caching
 - **Salesforce** bidirectional sync + SLA breach prediction
-- Multi-tenant RBAC, real-time analytics, 7-day forecasting
+- Multi-tenant RBAC, 7-day analytics forecasting
 
 `NestJS` `PostgreSQL` `Qdrant` `Kafka` `Redis` `Next.js 14`
 
@@ -84,11 +53,11 @@ const ayushanand = {
 <td width="50%" valign="top">
 
 ### 💬 Zwing Chat — Enterprise Messaging
-> Real-time communication layer for ERP platform
+> Real-time communication layer for a production ERP platform
 
 - **500+ concurrent users**, 10K+ daily messages, sub-second latency
 - JWT SSO, RBAC, group + peer-to-peer messaging
-- Horizontally scalable microservices + MongoDB optimisation
+- Horizontally scalable microservices + **MongoDB optimisation**
 - Zero production incidents since launch
 
 `NestJS` `Socket.io` `MongoDB` `JWT` `Docker`
@@ -112,7 +81,7 @@ const ayushanand = {
 <td width="50%" valign="top">
 
 ### 🎓 College Admin System
-> Digital transformation for academic institution
+> Digital transformation for an academic institution
 
 - Automated admissions & student records management
 - **60% reduction** in manual paperwork
@@ -124,29 +93,187 @@ const ayushanand = {
 </tr>
 </table>
 
----
-
-
-## 📜 Certification
-
-🏅 **AWS Academy Graduate – AWS Cloud Foundations**
-Amazon Web Services · March 2023 · [Verify on Credly →](https://www.credly.com/badges/d304fab7-582e-4d05-8459-86beffab9d66/)
+<br/>
 
 ---
 
-## 📫 Let's Connect
+## `> cat ./stack.json`
 
-<div align="center">
+**Languages**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushanand%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushanand-choudhary-720a68187)
-[![Email](https://img.shields.io/badge/Email-ayushanandc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushanandc@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,sql&theme=dark" />
+</p>
 
-</div>
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117" height="50"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4433?style=for-the-badge&logoColor=white&labelColor=0d1117" height="50"/>
+</p>
+
+**Infrastructure & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,linux&theme=dark" />
+</p>
+
+**AI / ML**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-00C896?style=for-the-badge&logoColor=white&labelColor=0d1117" height="28"/>
+</p>
+
+<br/>
 
 ---
 
-<div align="center">
+## `> docker run terminal-identity --user=ayushanand`
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d6cdf,100:1a1a2e&height=100&section=footer)
+<!-- Generate yours at: https://terminal-identity.vercel.app/api?username=ayushanandchoudhary&theme=dracula&shell=zsh -->
+<p align="center">
+  <img src="https://terminal-identity.vercel.app/api?username=ayushanandchoudhary&theme=dracula&shell=zsh&show_icons=true" alt="Terminal Identity Card" />
+</p>
 
-</div>
+<br/>
+
+---
+
+## `> git log --graph --oneline`
+
+<!-- CommitPulse 3D isometric contribution city -->
+<!-- Generate yours FREE at: https://commitpulse.vercel.app — enter username, pick Matrix theme -->
+<!-- Then replace the src below with your generated embed URL -->
+
+<p align="center">
+  <a href="https://commitpulse.vercel.app" title="My 3D contribution city on CommitPulse">
+    <img src="https://commitpulse.vercel.app/api/ayushanandchoudhary?theme=matrix&style=isometric" alt="3D Isometric Contribution City" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>↑ each building = a commit day &nbsp;·&nbsp; the taller the skyline, the harder the grind</sub>
+</p>
+
+<br/>
+
+---
+
+## `> metrics --plugins isocalendar,languages,habits,topics`
+
+<!-- ═══════════════════════════════════════════════════════════════
+     LOWLIGHTER/METRICS SETUP (10 min, most impactful thing here)
+     ═══════════════════════════════════════════════════════════════
+     1. Go to https://metrics.lecoq.io
+     2. Sign in with GitHub → select username: ayushanandchoudhary
+     3. Enable plugins:
+          ✅ Base (profile overview)
+          ✅ Isometric calendar (3D contribution graph)
+          ✅ Languages (detailed breakdown with sparklines)
+          ✅ Habits (coding hours clock diagram)
+          ✅ Topics (starred topics word cloud)
+          ✅ LeetCode (problem stats)
+          ✅ Notable contributions
+     4. Click "Generate workflow" → download the YAML
+     5. Commit it to .github/workflows/metrics.yml in this repo
+     6. Run the workflow manually once from the Actions tab
+     7. Replace the image src below with:
+          ./github-metrics.svg
+        (the Action auto-commits this file to your repo root on every run)
+     ─────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
+<!-- FALLBACK CARDS — remove once metrics SVG is live -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushanandchoudhary&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE8A2&fire=FF6B6B&currStreakLabel=7EE8A2" height="165" alt="GitHub Streak"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandchoudhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&icon_color=7EE8A2&rank_icon=github&count_private=true" height="165" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandchoudhary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&langs_count=8" alt="Top Languages"/>
+</p>
+
+<br/>
+
+---
+
+## `> watch -n 86400 ./snake-generator.sh`
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE — auto-regenerates every midnight via Actions
+     ═══════════════════════════════════════════════════════════════
+     Create .github/workflows/snake.yml with this content:
+
+     name: Generate Snake Animation
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: ${{ github.repository_owner }}
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ─────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<br/>
+
+---
+
+## `> openssl connect ayushanand:443`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushanand-choudhary">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushanand%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayushanandc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayushanandc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ayushanandchoudhary">
+    <img src="https://img.shields.io/badge/GitHub-ayushanandchoudhary-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=profile+views" alt="Profile views" />
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
+</p>
