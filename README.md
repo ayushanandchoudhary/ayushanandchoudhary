@@ -140,9 +140,8 @@ const ayushanand = {
 
 ## `> docker run terminal-identity --user=ayushanand`
 
-<!-- Generate yours at: https://terminal-identity.vercel.app/api?username=ayushanandchoudhary&theme=dracula&shell=zsh -->
 <p align="center">
-  <img src="https://terminal-identity.vercel.app/api?username=ayushanandchoudhary&theme=dracula&shell=zsh&show_icons=true" alt="Terminal Identity Card" />
+  <img src="./terminal-card.svg" alt="Terminal Card" width="680"/>
 </p>
 
 <br/>
