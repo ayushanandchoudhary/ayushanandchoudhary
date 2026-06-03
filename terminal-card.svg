@@ -1,0 +1,119 @@
+<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Ayushanand Choudhary — Terminal Identity Card</title>
+<desc>Animated terminal card showing Ayushanand Choudhary's GitHub profile info</desc>
+
+<defs>
+  <style>
+    .win { fill: #0d1117; }
+    .bar { fill: #1c1c1e; }
+    .dot-r { fill: #ff5f57; }
+    .dot-y { fill: #febc2e; }
+    .dot-g { fill: #28c840; }
+    .prompt { fill: #7ee8a2; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; }
+    .cmd { fill: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; }
+    .key { fill: #7ee8a2; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; }
+    .val { fill: #e6edf3; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; }
+    .dim { fill: #8b949e; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; }
+    .str { fill: #a5d6ff; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; }
+    .arr { fill: #ff7b72; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; }
+    .cursor { fill: #7ee8a2; }
+
+    .line1  { opacity: 0; animation: appear 0.01s 0.3s forwards; }
+    .line2  { opacity: 0; animation: appear 0.01s 0.8s forwards; }
+    .line3  { opacity: 0; animation: appear 0.01s 1.0s forwards; }
+    .line4  { opacity: 0; animation: appear 0.01s 1.2s forwards; }
+    .line5  { opacity: 0; animation: appear 0.01s 1.4s forwards; }
+    .line6  { opacity: 0; animation: appear 0.01s 1.6s forwards; }
+    .line7  { opacity: 0; animation: appear 0.01s 1.8s forwards; }
+    .line8  { opacity: 0; animation: appear 0.01s 2.0s forwards; }
+    .line9  { opacity: 0; animation: appear 0.01s 2.2s forwards; }
+    .line10 { opacity: 0; animation: appear 0.01s 2.4s forwards; }
+    .line11 { opacity: 0; animation: appear 0.01s 2.6s forwards; }
+    .line12 { opacity: 0; animation: appear 0.01s 2.8s forwards; }
+    .line13 { opacity: 0; animation: appear 0.01s 3.0s forwards; }
+
+    .cur { animation: blink 1s step-end infinite; }
+    @keyframes appear { to { opacity: 1; } }
+    @keyframes blink  { 0%,100%{opacity:1;} 50%{opacity:0;} }
+  </style>
+</defs>
+
+<!-- Window chrome -->
+<rect class="win" x="20" y="10" width="640" height="300" rx="10"/>
+<rect class="bar" x="20" y="10" width="640" height="32" rx="10"/>
+<rect class="bar" x="20" y="30" width="640" height="12"/>
+
+<!-- Traffic lights -->
+<circle class="dot-r" cx="46" cy="26" r="6"/>
+<circle class="dot-y" cx="66" cy="26" r="6"/>
+<circle class="dot-g" cx="86" cy="26" r="6"/>
+
+<!-- Title bar text -->
+<text x="340" y="31" text-anchor="middle" class="dim" font-size="12">ayushanand@github — zsh</text>
+
+<!-- LINE 1: prompt + command -->
+<g class="line1">
+  <text x="40" y="66"><tspan class="prompt">ayushanand@github</tspan><tspan class="dim">:</tspan><tspan class="arr">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">cat profile.json</tspan></text>
+</g>
+
+<!-- LINE 2: opening brace -->
+<g class="line2">
+  <text x="40" y="86"><tspan class="val">{</tspan></text>
+</g>
+
+<!-- LINE 3: name -->
+<g class="line3">
+  <text x="40" y="103"><tspan class="dim">  </tspan><tspan class="key">"name"</tspan><tspan class="val">:         </tspan><tspan class="str">"Ayushanand Choudhary"</tspan><tspan class="val">,</tspan></text>
+</g>
+
+<!-- LINE 4: role -->
+<g class="line4">
+  <text x="40" y="120"><tspan class="dim">  </tspan><tspan class="key">"role"</tspan><tspan class="val">:         </tspan><tspan class="str">"Backend Engineer · AI Systems"</tspan><tspan class="val">,</tspan></text>
+</g>
+
+<!-- LINE 5: location -->
+<g class="line5">
+  <text x="40" y="137"><tspan class="dim">  </tspan><tspan class="key">"location"</tspan><tspan class="val">:     </tspan><tspan class="str">"Gurugram, India 🇮🇳"</tspan><tspan class="val">,</tspan></text>
+</g>
+
+<!-- LINE 6: building -->
+<g class="line6">
+  <text x="40" y="154"><tspan class="dim">  </tspan><tspan class="key">"building"</tspan><tspan class="val">:     </tspan><tspan class="str">"MIRA — AI Support Intelligence"</tspan><tspan class="val">,</tspan></text>
+</g>
+
+<!-- LINE 7: stack -->
+<g class="line7">
+  <text x="40" y="171"><tspan class="dim">  </tspan><tspan class="key">"stack"</tspan><tspan class="val">:        [</tspan><tspan class="str">"NestJS"</tspan><tspan class="val">, </tspan><tspan class="str">"Kafka"</tspan><tspan class="val">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="val">, </tspan><tspan class="str">"Qdrant"</tspan><tspan class="val">],</tspan></text>
+</g>
+
+<!-- LINE 8: open to -->
+<g class="line8">
+  <text x="40" y="188"><tspan class="dim">  </tspan><tspan class="key">"openTo"</tspan><tspan class="val">:       </tspan><tspan class="str">"Backend · SWE · Full-Stack"</tspan><tspan class="val">,</tspan></text>
+</g>
+
+<!-- LINE 9: superpower -->
+<g class="line9">
+  <text x="40" y="205"><tspan class="dim">  </tspan><tspan class="key">"superpower"</tspan><tspan class="val">:  </tspan><tspan class="str">"reliability is a feature, not a phase"</tspan></text>
+</g>
+
+<!-- LINE 10: closing brace -->
+<g class="line10">
+  <text x="40" y="222"><tspan class="val">}</tspan></text>
+</g>
+
+<!-- LINE 11: blank -->
+<g class="line11">
+  <text x="40" y="242"><tspan class="prompt">ayushanand@github</tspan><tspan class="dim">:</tspan><tspan class="arr">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">echo $STATUS</tspan></text>
+</g>
+
+<!-- LINE 12: status output -->
+<g class="line12">
+  <text x="40" y="260"><tspan class="key">✓ </tspan><tspan class="val">Open to work · Available immediately · Will relocate</tspan></text>
+</g>
+
+<!-- LINE 13: next prompt + blinking cursor -->
+<g class="line13">
+  <text x="40" y="280"><tspan class="prompt">ayushanand@github</tspan><tspan class="dim">:</tspan><tspan class="arr">~</tspan><tspan class="dim">$ </tspan><tspan class="cur cursor">▋</tspan></text>
+</g>
+
+</svg>
