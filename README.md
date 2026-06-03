@@ -156,7 +156,7 @@ const ayushanand = {
 
 <p align="center">
   <a href="https://commitpulse.vercel.app" title="My 3D contribution city on CommitPulse">
-    <img src="https://commitpulse.vercel.app/api/ayushanandchoudhary?theme=matrix&style=isometric" alt="3D Isometric Contribution City" width="100%"/>
+    <img src="https://commitpulse.vercel.app/api/streak?user=ayushanandchoudhary" alt="3D Isometric Contribution City" width="100%"/>
   </a>
 </p>
 
