@@ -44,10 +44,9 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ---
 
-<!-- OCTOCAT 1 — right after bio, welcoming vibe -->
+<!-- OCTOCAT 1 — hockey helmet, serious dev energy, floats right after bio -->
 <p align="right">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100" alt="Daft Punk Octocat"/>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" alt="Daft Punk Octocat 2"/>
+  <img src="./octocat-1780918825780.png" width="130" alt="Octocat"/>
 </p>
 
 ---
@@ -68,12 +67,16 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandchoudhary&bg_color=0d1117&color=7ee8a2&line=7ee8a2&point=ffffff&area=true&hide_border=true&area_color=1a3a2a" width="100%"/>
 </p>
 
+<p align="right">
+  <img src="./octocat-1780919185844.png" width="130" alt="Octocat Headphones"/>
+</p>
+
 ---
 
 ## 🧠 My GitHub Data
 
 <!-- OCTOCAT 2 — floating left next to data section -->
-<img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="120" alt="Hula Octocat"/>
+<img align="right" src="./octocat-1780919124109.png" width="140" alt="Octocat Detective"/>
 
 - 🗄 **`2+ years`** shipping production-grade enterprise systems
 - 🤖 Currently building **MIRA** — RAG + Kafka + LLM orchestration
@@ -126,7 +129,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- OCTOCAT 3 — footer, signing off -->
 <p align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="120" alt="NUX Octocat"/>
+  <img src="./octocat-1780919014805.png" width="150" alt="Octocat Boba"/>
   <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-production%20systems%20at%20scale-7EE8A2?style=flat-square&labelColor=0d1117"/>
 </p>
