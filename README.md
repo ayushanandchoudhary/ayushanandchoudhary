@@ -44,6 +44,14 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ---
 
+<!-- OCTOCAT 1 — right after bio, welcoming vibe -->
+<p align="right">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="100" alt="Daft Punk Octocat"/>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100" alt="Daft Punk Octocat 2"/>
+</p>
+
+---
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -64,10 +72,16 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ## 🧠 My GitHub Data
 
+<!-- OCTOCAT 2 — floating left next to data section -->
+<img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="120" alt="Hula Octocat"/>
+
 - 🗄 **`2+ years`** shipping production-grade enterprise systems
 - 🤖 Currently building **MIRA** — RAG + Kafka + LLM orchestration
 - 📬 Open to work — Backend · SWE · Full-Stack · Open to relocate
 - 💬 Ask me about **NestJS, Kafka, RAG pipelines, System Design**
+- 🌍 Based in Gurugram, India — open to relocate
+
+<br clear="right"/>
 
 ---
 
@@ -88,25 +102,11 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushanandchoudhary&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE8A2&fire=7EE8A2&currStreakLabel=7EE8A2&sideLabels=8b949e&dates=8b949e" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandchoudhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&icon_color=7EE8A2&rank_icon=github&count_private=true&text_color=8b949e" height="155"/>
-</p>
-
----
-
 ## 🗂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ayushanandchoudhary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanandchoudhary&repo=PG-Mananger-Services&bg_color=0d1117&title_color=7ee8a2&text_color=8b949e&icon_color=7ee8a2&hide_border=true" />
+  <a href="https://github.com/ayushanandchoudhary/PG-Mananger-Services">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanandchoudhary&repo=PG-Mananger-Services&bg_color=0d1117&title_color=7ee8a2&text_color=8b949e&icon_color=7ee8a2&hide_border=true"/>
   </a>
 </p>
 
@@ -124,6 +124,9 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
+<!-- OCTOCAT 3 — footer, signing off -->
 <p align="center">
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="120" alt="NUX Octocat"/>
+  <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-production%20systems%20at%20scale-7EE8A2?style=flat-square&labelColor=0d1117"/>
 </p>
