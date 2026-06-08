@@ -1,138 +1,118 @@
+<!-- DARK GRID BANNER — guilyx style -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Ayushanand%20Choudhary&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Distributed%20Architecture&descSize=15&descAlignY=62&descColor=7ee8a2&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7EE8A2&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+scale+to+production.;Multi-tenant+platforms.+Real-time+pipelines.+LLMs.;Currently+building+MIRA+%E2%80%94+AI+Support+Intelligence.;Open+to+Backend%2C+SWE+%26+Full-Stack+roles." alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=160&text=ayushanandchoudhary/ayushanandchoudhary&fontSize=18&fontColor=7ee8a2&fontAlignY=40&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Architecture&descSize=13&descColor=8b949e&descAlignY=62&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushanand-choudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-passing-brightgreen?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="mailto:ayushanandc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-passing-brightgreen?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-7EE8A2?style=flat-square&logoColor=black"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gurugram%2C%20India-grey?style=flat-square&logo=googlemaps&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=profile+views"/>
 </p>
 
 ---
 
-## `> cat profile.json`
+```yaml
+name:               Ayushanand Choudhary
+located_in:         Gurugram, India
+job:                Backend Engineer @ Ginesys One
+currently_building: MIRA — Multi-tenant AI Support Intelligence Platform
+background:         2+ years shipping production-grade enterprise systems
+
+past_experiences:
+  - ["Backend Developer", "QA Engineer", "Ginesys One", "India", "2023-Now"]
+  - ["Full-Stack Engineer", "Adcon Realty CRM", "NestJS + PostgreSQL", "2023"]
+  - ["Backend Engineer", "College Admin System", "NestJS + REST APIs", "2022"]
+
+fields_of_interest:
+  - ["AI/RAG Pipelines", "LLM Orchestration", "Distributed Systems"]
+  - ["Real-time Messaging", "Event-driven Architecture", "API Design"]
+
+technical_background:
+  - ["NestJS", "Kafka", "PostgreSQL", "Qdrant", "Redis", "Docker", "AWS"]
+  - ["Groq", "Gemini", "LangChain", "WebSockets", "MongoDB", "Next.js"]
+
+currently_learning: ["Advanced Kafka Patterns", "LLM Orchestration at Scale"]
+open_to:            ["Backend", "SWE", "Full-Stack roles — open to relocate"]
+philosophy:         "QA mindset in backend code — reliability is a feature, not a phase"
+```
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Pushed commits to `MIRA` — AI Support Intelligence Platform
+2. 🛠 Working on multi-tenant RAG pipeline with Qdrant + Kafka
+3. 📦 Building `PG-Manager-Services` — multi-tenant SaaS for PG accommodation
+<!--END_SECTION:activity-->
+
+---
+
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="./terminal-card.svg" width="680" alt="Terminal Card"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandchoudhary&bg_color=0d1117&color=7ee8a2&line=7ee8a2&point=ffffff&area=true&hide_border=true&area_color=1a3a2a" width="100%"/>
 </p>
 
 ---
 
-## `> ls ./featured-work`
+## 🧠 My GitHub Data
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 MIRA — AI Support Intelligence
-> Multi-tenant enterprise support ops platform
-
-- **RAG pipeline** with Qdrant vector search for smart ticket routing
-- **LLM orchestration** (Groq/Gemini) — classification, sentiment, RCA
-- Event-driven with **Kafka** + WebSockets + Redis caching
-- **Salesforce** bidirectional sync + SLA breach prediction
-- Multi-tenant RBAC, 7-day analytics forecasting
-
-`NestJS` `PostgreSQL` `Qdrant` `Kafka` `Redis` `Next.js 14`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Zwing Chat — Enterprise Messaging
-> Real-time communication layer for a production ERP
-
-- **500+ concurrent users**, 10K+ daily messages, sub-second latency
-- JWT SSO, RBAC, group + peer-to-peer messaging
-- Horizontally scalable microservices + **MongoDB optimisation**
-- Zero production incidents since launch
-
-`NestJS` `Socket.io` `MongoDB` `JWT` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Adcon Realty CRM
-> Full backend for real estate lifecycle management
-
-- **50+ RESTful APIs** — deals, attendance, client lifecycle
-- Firebase push notifications for real-time updates
-- **40% improvement** in system reliability
-
-`NestJS` `PostgreSQL` `MongoDB` `Firebase` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 College Admin System
-> Digital transformation for an academic institution
-
-- Automated admissions & student records management
-- **60% reduction** in manual paperwork
-- Multi-role access — students, faculty, administration
-
-`NestJS` `REST APIs` `PostgreSQL`
-
-</td>
-</tr>
-</table>
+- 🗄 **`2+ years`** shipping production-grade enterprise systems
+- 🤖 Currently building **MIRA** — RAG + Kafka + LLM orchestration
+- 📬 Open to work — Backend · SWE · Full-Stack · Open to relocate
+- 💬 Ask me about **NestJS, Kafka, RAG pipelines, System Design**
 
 ---
 
-## `> cat ./stack.json`
+## ⏱ This Week I Spent My Time On
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,nodejs,express&theme=dark"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git&theme=dark"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF4433?style=flat-square&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48"/>
-</p>
+> Set up Wakatime at [wakatime.com](https://wakatime.com) → connect GitHub → add `waka-readme` action
 
----
-
-## `> git log --graph --oneline`
-
-<p align="center">
-  <a href="https://commitpulse.vercel.app">
-    <img src="https://commitpulse.vercel.app/api/streak?user=ayushanandchoudhary" width="100%" alt="CommitPulse"/>
-  </a>
-</p>
+<!--START_SECTION:waka-->
+```text
+TypeScript   █████████████░░░░░░░░   52.4%
+JavaScript   ████░░░░░░░░░░░░░░░░░   16.2%
+SQL          ███░░░░░░░░░░░░░░░░░░   12.1%
+YAML         ██░░░░░░░░░░░░░░░░░░░    8.3%
+Markdown     █░░░░░░░░░░░░░░░░░░░░    5.8%
+Other        █░░░░░░░░░░░░░░░░░░░░    5.2%
+```
+<!--END_SECTION:waka-->
 
 ---
 
-## `> metrics --all`
+## 📈 Stats
 
 <p align="center">
   <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushanandchoudhary&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE8A2&fire=FF6B6B&currStreakLabel=7EE8A2" height="160" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ayushanandchoudhary&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE8A2&fire=7EE8A2&currStreakLabel=7EE8A2&sideLabels=8b949e&dates=8b949e" height="155"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandchoudhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&icon_color=7EE8A2&rank_icon=github&count_private=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandchoudhary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE8A2&icon_color=7EE8A2&rank_icon=github&count_private=true&text_color=8b949e" height="155"/>
 </p>
 
 ---
 
-## `> watch ./snake-generator.sh`
+## 🗂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ayushanandchoudhary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanandchoudhary&repo=PG-Mananger-Services&bg_color=0d1117&title_color=7ee8a2&text_color=8b949e&icon_color=7ee8a2&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -145,5 +125,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-production%20systems%20at%20scale-7EE8A2?style=flat-square&labelColor=0d1117"/>
 </p>
