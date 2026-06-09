@@ -1,4 +1,4 @@
-<img align="left" src="./octocat-1780918825780.png" width="200" alt="Octocat"/>
+<img align="left" src="./octocat-1780918825780.png" width="200" length = "200" alt="Octocat"/>
 
 ### ayushanand / ayushanandchoudhary
 ### Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Distributed Architecture
