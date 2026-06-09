@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="./octocat-1780918825780.png" width="140" alt="Octocat"/>
+<img align="right" src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
 
 ```yaml
 name:               Ayushanand Choudhary
@@ -60,13 +60,13 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandchoudhary&bg_color=0d1117&color=7ee8a2&line=7ee8a2&point=ffffff&area=true&hide_border=true&area_color=1a3a2a" width="100%"/>
 
-<img align="right" src="./octocat-1780919185844.png" width="130" alt="Octocat"/>
-
 ---
 
 ## 🧠 My GitHub Data
 
-<img align="right" src="./octocat-1780919124109.png" width="140" alt="Octocat Detective"/>
+<table width="100%" border="0">
+<tr>
+<td valign="top" width="70%">
 
 - 🗄 **`2+ years`** shipping production-grade enterprise systems
 - 🤖 Currently building **MIRA** — RAG + Kafka + LLM orchestration
@@ -74,26 +74,24 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 - 💬 Ask me about **NestJS, Kafka, RAG pipelines, System Design**
 - 🌍 Based in Gurugram, India — open to relocate
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="right" width="30%">
+  <img src="./octocat-1780919124109.png" width="150" alt="Octocat Detective"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Languages I've Mastered
+## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" title="NestJS"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="40" title="Redis"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" title="Git"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF4433?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,nodejs,postgres,mongodb,redis,docker,aws,git&theme=dark" height="42"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4433?style=for-the-badge&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="36"/>
 </p>
 
 ---
@@ -113,20 +111,9 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
----
-
-<!-- FOOTER -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td align="left" width="70%">
+<td align="left" valign="middle" width="65%">
 
 ```
 ╔══════════════════════════════════════════╗
@@ -139,8 +126,8 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 
 </td>
-<td align="right" width="30%">
-  <img src="./octocat-1780919014805.png" width="150" alt="Octocat Boba"/>
+<td align="right" valign="middle" width="35%">
+  <img src="./octocat-1780919014805.png" width="160" alt="Octocat Boba"/>
 </td>
 </tr>
 </table>
