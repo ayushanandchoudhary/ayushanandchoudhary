@@ -1,5 +1,10 @@
-<!-- BANNER — white bg, black text, left aligned -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&text=ayushanandchoudhary/ayushanandchoudhary&fontSize=20&fontColor=111111&fontAlignY=40&textBg=false&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Architecture&descSize=13&descColor=444444&descAlignY=62&descAlign=3&align=left&fontAlign=3" width="100%"/>
+<!-- HEADER TABLE — name left, octocat right -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle" width="75%">
+
+# ayushanand / ayushanandchoudhary
+### Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Distributed Architecture
 
 <p>
   <a href="https://www.linkedin.com/in/ayushanand-choudhary">
@@ -13,9 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=views"/>
 </p>
 
----
+</td>
+<td valign="middle" align="right" width="25%">
+  <img src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
+</td>
+</tr>
+</table>
 
-<img align="right" src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
+---
 
 ```yaml
 name:               Ayushanand Choudhary
@@ -41,8 +51,6 @@ currently_learning: ["Advanced Kafka Patterns", "LLM Orchestration at Scale"]
 open_to:            ["Backend", "SWE", "Full-Stack roles — open to relocate"]
 philosophy:         "QA mindset in backend code — reliability is a feature, not a phase"
 ```
-
-<br clear="right"/>
 
 ---
 
