@@ -1,7 +1,7 @@
 <img align="right" src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
 
 # ayushanand / ayushanandchoudhary
-### Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Distributed Architecture
+## Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Distributed Architecture
 
 <p>
   <a href="https://www.linkedin.com/in/ayushanand-choudhary">
