@@ -1,9 +1,7 @@
-<!-- DARK GRID BANNER — guilyx style -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=160&text=ayushanandchoudhary/ayushanandchoudhary&fontSize=18&fontColor=7ee8a2&fontAlignY=40&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Architecture&descSize=13&descColor=8b949e&descAlignY=62&animation=fadeIn" width="100%"/>
-</p>
+<!-- BANNER — white bg, black text, left aligned -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&text=ayushanandchoudhary/ayushanandchoudhary&fontSize=20&fontColor=111111&fontAlignY=40&textBg=false&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Architecture&descSize=13&descColor=444444&descAlignY=62&descAlign=3&align=left&fontAlign=3" width="100%"/>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ayushanand-choudhary">
     <img src="https://img.shields.io/badge/linkedin-passing-brightgreen?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
@@ -12,10 +10,12 @@
     <img src="https://img.shields.io/badge/email-passing-brightgreen?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=views"/>
 </p>
 
 ---
+
+<img align="right" src="./octocat-1780918825780.png" width="140" alt="Octocat"/>
 
 ```yaml
 name:               Ayushanand Choudhary
@@ -42,12 +42,7 @@ open_to:            ["Backend", "SWE", "Full-Stack roles — open to relocate"]
 philosophy:         "QA mindset in backend code — reliability is a feature, not a phase"
 ```
 
----
-
-<!-- OCTOCAT 1 — hockey helmet, serious dev energy, floats right after bio -->
-<p align="right">
-  <img src="./octocat-1780918825780.png" width="130" alt="Octocat"/>
-</p>
+<br clear="right"/>
 
 ---
 
@@ -63,19 +58,14 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ## 📊 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandchoudhary&bg_color=0d1117&color=7ee8a2&line=7ee8a2&point=ffffff&area=true&hide_border=true&area_color=1a3a2a" width="100%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandchoudhary&bg_color=0d1117&color=7ee8a2&line=7ee8a2&point=ffffff&area=true&hide_border=true&area_color=1a3a2a" width="100%"/>
 
-<p align="right">
-  <img src="./octocat-1780919185844.png" width="130" alt="Octocat Headphones"/>
-</p>
+<img align="right" src="./octocat-1780919185844.png" width="130" alt="Octocat"/>
 
 ---
 
 ## 🧠 My GitHub Data
 
-<!-- OCTOCAT 2 — floating left next to data section -->
 <img align="right" src="./octocat-1780919124109.png" width="140" alt="Octocat Detective"/>
 
 - 🗄 **`2+ years`** shipping production-grade enterprise systems
@@ -88,9 +78,27 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ---
 
-## ⏱ This Week I Spent My Time On
+## 🛠 Languages I've Mastered
 
-> Set up Wakatime at [wakatime.com](https://wakatime.com) → connect GitHub → add `waka-readme` action
+<p>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" title="NestJS"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="40" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" title="Git"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4433?style=for-the-badge&logoColor=white" height="40"/>
+</p>
+
+---
+
+## ⏱ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 ```text
@@ -105,31 +113,34 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 🗂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ayushanandchoudhary/PG-Mananger-Services">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanandchoudhary&repo=PG-Mananger-Services&bg_color=0d1117&title_color=7ee8a2&text_color=8b949e&icon_color=7ee8a2&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayushanandchoudhary/ayushanandchoudhary/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 ---
 
-<!-- OCTOCAT 3 — footer, signing off -->
-<p align="center">
+<!-- FOOTER -->
+<table width="100%">
+<tr>
+<td align="left" width="70%">
+
+```
+╔══════════════════════════════════════════╗
+║  > hello world                           ║
+║  > 2+ years of production systems        ║
+║  > currently: building MIRA              ║
+║  > status: open to work ✓                ║
+║  > next: something big                   ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+<td align="right" width="30%">
   <img src="./octocat-1780919014805.png" width="150" alt="Octocat Boba"/>
-  <br/>
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-production%20systems%20at%20scale-7EE8A2?style=flat-square&labelColor=0d1117"/>
-</p>
+</td>
+</tr>
+</table>
