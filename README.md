@@ -17,8 +17,6 @@
 
 <br clear="right"/>
 
----
-
 ```yaml
 name:               Ayushanand Choudhary
 located_in:         Gurugram, India
