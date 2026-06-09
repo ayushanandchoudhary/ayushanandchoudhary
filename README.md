@@ -1,7 +1,4 @@
-<!-- HEADER TABLE — name left, octocat right -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" width="75%">
+<img align="right" src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
 
 # ayushanand / ayushanandchoudhary
 ### Backend Engineer &nbsp;·&nbsp; AI Systems &nbsp;·&nbsp; Distributed Architecture
@@ -18,12 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayushanandchoudhary&color=7EE8A2&style=flat-square&label=views"/>
 </p>
 
-</td>
-<td valign="middle" align="right" width="25%">
-  <img src="./octocat-1780918825780.png" width="150" alt="Octocat"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -72,9 +64,7 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 
 ## 🧠 My GitHub Data
 
-<table width="100%" border="0">
-<tr>
-<td valign="top" width="70%">
+<img align="right" src="./octocat-1780919124109.png" width="150" alt="Octocat Detective"/>
 
 - 🗄 **`2+ years`** shipping production-grade enterprise systems
 - 🤖 Currently building **MIRA** — RAG + Kafka + LLM orchestration
@@ -82,12 +72,7 @@ philosophy:         "QA mindset in backend code — reliability is a feature, no
 - 💬 Ask me about **NestJS, Kafka, RAG pipelines, System Design**
 - 🌍 Based in Gurugram, India — open to relocate
 
-</td>
-<td valign="middle" align="right" width="30%">
-  <img src="./octocat-1780919124109.png" width="150" alt="Octocat Detective"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -119,9 +104,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="16">
-<tr>
-<td align="left" valign="middle" width="65%">
+<img align="right" src="./octocat-1780919014805.png" width="160" alt="Octocat Boba"/>
 
 ```
 ╔══════════════════════════════════════════╗
@@ -133,9 +116,4 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ╚══════════════════════════════════════════╝
 ```
 
-</td>
-<td align="right" valign="middle" width="35%">
-  <img src="./octocat-1780919014805.png" width="160" alt="Octocat Boba"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
