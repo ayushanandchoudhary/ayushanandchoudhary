@@ -20,7 +20,7 @@
 ```yaml
 name:               Ayushanand Choudhary
 located_in:         Gurugram, India
-job:                Backend Engineer @ Ginesys One
+job:                AQAE @ Ginesys One
 currently_building: MIRA — Multi-tenant AI Support Intelligence Platform
 background:         2+ years shipping production-grade enterprise systems
 
